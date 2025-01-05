@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/antmelekhin/terraform-gitlab-group/compare/v1.0.0...v1.0.1) (2025-01-05)
+
+
+### Documentation
+
+* **README:** fixed `parent_id` variable description ([871f202](https://github.com/antmelekhin/terraform-gitlab-group/commit/871f2028187dcbef5df735aa3758bde817a732ad))
+
 ## [1.0.0](https://github.com/antmelekhin/terraform-gitlab-group/compare/...v1.0.0) (2025-01-05)
 
 
