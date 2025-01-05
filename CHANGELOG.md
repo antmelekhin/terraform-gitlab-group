@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.0](https://github.com/antmelekhin/terraform-gitlab-group/compare/...v1.0.0) (2025-01-05)
+
+
+### Features
+
+* initial commit ([e0be651](https://github.com/antmelekhin/terraform-gitlab-group/commit/e0be651037d954357f8292af979dee44c49a44d5))
+
 ## [1.0.0](https://github.com/antmelekhin/terraform-gitlab-project/compare/...v1.0.0) (2025-01-04)
 
 
