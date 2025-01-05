@@ -32,7 +32,7 @@ No modules.
 |------|-------------|------|---------|:--------:|
 | <a name="input_name"></a> [name](#input\_name) | The name of the group. | `string` | n/a | yes |
 | <a name="input_description"></a> [description](#input\_description) | The group's description. | `string` | `null` | no |
-| <a name="input_parent_id"></a> [parent\_id](#input\_parent\_id) | Id of the parent group (creates a nested group).<br/>*Note*: On GitLab SaaS, you must use the GitLab UI to create groups without a parent group. | `number` | `null` | no |
+| <a name="input_parent_id"></a> [parent\_id](#input\_parent\_id) | ID of the parent group (creates a nested group).<br/>**Note**: On GitLab SaaS, you must use the GitLab UI to create groups without a parent group. | `number` | `null` | no |
 | <a name="input_path"></a> [path](#input\_path) | The path of the group. | `string` | `null` | no |
 | <a name="input_visibility_level"></a> [visibility\_level](#input\_visibility\_level) | The group's visibility. Can be `private`, `internal`, or `public`. | `string` | `"private"` | no |
 

@@ -15,8 +15,8 @@ variable "path" {
 
 variable "parent_id" {
   description = <<-EOF
-  Id of the parent group (creates a nested group).
-  *Note*: On GitLab SaaS, you must use the GitLab UI to create groups without a parent group.
+  ID of the parent group (creates a nested group).
+  **Note**: On GitLab SaaS, you must use the GitLab UI to create groups without a parent group.
   EOF
   type        = number
   default     = null
